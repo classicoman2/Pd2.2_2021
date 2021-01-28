@@ -38,12 +38,12 @@ The interface will follow the `Usability`, `UX` and `Acccessibility` criteria se
 - [ ] Justify why you're using this toolset
 
 ### (2) Preparation
-- [ ] Create a `color palette` and chose `fonts` and `icons` for your project
-- [ ] Create a simple `Wireframe` of the screens of your app using the tools seen in class (Temps a invertir aprox: 2h) 
+- [ ] Choose a `color palette`, `fonts` and `icons` for your project
+- [ ] Create a simple `Wireframe` of the main layouts of your app
 
 ### (3) Planification and management
-- [ ] Put inside a `Gantt Diagram` the estimation of time and sequencing of tasks (you can use [Miro](https://miro.com/) and share the link on top of the README.MD file
-- [] Create a private repository, share it with `classicoman2` and insert the link [in this document](https://docs.google.com/spreadsheets/d/1GU-yBlZW1Zx9zxNPLuJpAlfvohR6mnwaI39EcOSN72Y/edit)
+- [ ] Put inside a `Gantt Diagram` the estimation of time and sequencing of tasks (you can use [Miro](https://miro.com/) and share the link on top of the `README.MD` file
+- [ ] Create a private repository, share it with `classicoman2` and insert the link [in this document](https://docs.google.com/spreadsheets/d/1GU-yBlZW1Zx9zxNPLuJpAlfvohR6mnwaI39EcOSN72Y/edit)
 - [ ] Use a Project Management Tool to create a `Kanban` structure (or similar) to structure the project `use cases` and `tasks`
 
 ### (4) Usability & Design

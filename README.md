@@ -54,7 +54,7 @@ The interface will follow the `Usability`, `UX` and `Acccessibility` criteria se
 - [ ] Create at least a menu that follows the `Accessibility principles` seen in class
 
 ### (6) Video Presentation
-[ ] Create a video presentation (in ENGLISH) of maximum 5' to show the layout of your application
+- [ ] Create a video presentation (in ENGLISH) of maximum 5' to show the layout of your application
 
 ### (7) Deployment (Optional)
 - Deploy the website using **Netlify/Heroku** or similar tools and share the link in the 

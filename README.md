@@ -2,7 +2,7 @@
 
 The story behind `Keep Calm` posters [here](https://london.ac.uk/about-us/history-university-london/story-behind-keep-calm-and-carry)
 
-![prova](./assets/keepcalm.png)
+![prova](./assets/keepcalm.png =100x)
 
 ## Table of Contents
 
@@ -54,8 +54,7 @@ The interface will follow the `Usability`, `UX` and `Acccessibility` criteria se
 
 
 ## SPRINTS :rocket:
-
-### SPRINT 1: Website repository (+ deployment) + esborrany de la presentació
+### SPRINT 1
 > :alarm_clock: Deadline: Friday 29/01/2021
 
 * Store the website into a github public repository and [insert the URL in this document](https://docs.google.com/spreadsheets/d/1ymNPMas7skRIr2i3mFZtaIYn-Gb7QR_z5bPOZPeZFDI/edit#gid=0)

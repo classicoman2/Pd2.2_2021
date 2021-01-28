@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "toc": "markdown-toc -i README.md"
+  },
+  "author": "Toni Amengual",
+  "license": "ISC",
+  "devDependencies": {
+    "markdown-toc": "^1.2.0"
+  }
+}

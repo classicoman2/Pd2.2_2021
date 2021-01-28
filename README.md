@@ -1,8 +1,10 @@
 # Pd2.2_2021
 
-The story behind `Keep Calm` posters [here](https://london.ac.uk/about-us/history-university-london/story-behind-keep-calm-and-carry)
+Segon projecte del 2on trimestre de segon curs de DAW Dual (curs 2020-21)
 
 ![prova](./assets/keepcalm.png)
+
+(You can discover the story behind `Keep Calm` poster [here](https://london.ac.uk/about-us/history-university-london/story-behind-keep-calm-and-carry))
 
 ## Table of Contents
 

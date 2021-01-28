@@ -11,7 +11,7 @@ Segon projecte del 2on trimestre de segon curs de DAW Dual (curs 2020-21)
 <!-- toc -->
 
 - [INTRODUCTION](#introduction)
-- [WHAT TO DO?](#what-to-do)
+- [REQUIREMENTS :construction_worker:](#requirements-construction_worker)
   * [(1) Technical Choice](#1-technical-choice)
   * [(2) Preparation](#2-preparation)
   * [(3) Planification and management](#3-planification-and-management)
@@ -30,12 +30,12 @@ Create a web interface using a Front Framework (Vue.js or React) and a CSS Frame
 
 The interface will follow the `Usability`, `UX` and `Acccessibility` criteria seen during the course and apply basic `Performance enhancing` techniques.
 
-## WHAT TO DO?
+## REQUIREMENTS :construction_worker:
 
 ### (1) Technical Choice
-- [] Choose a __CSS Framework__ (Bootstrap / Material D. / Bulma / Tailwind / Grid+Flexbox toolset / other of your choice)
-- [] Choose a __Front Framework__: Vue.js (that we'll see in class) or React.js
-- [] Justify why you're using this toolset
+- [ ] Choose a __CSS Framework__ (Bootstrap / Material D. / Bulma / Tailwind / Grid+Flexbox toolset / other of your choice)
+- [ ] Choose a __Front Framework__: Vue.js (that we'll see in class) or React.js
+- [ ] Justify why you're using this toolset
 
 ### (2) Preparation
 - [ ] Create a `color palette` and chose `fonts` and `icons` for your project
@@ -54,7 +54,7 @@ The interface will follow the `Usability`, `UX` and `Acccessibility` criteria se
 - [ ] Create at least a menu that follows the `Accessibility principles` seen in class
 
 ### (6) Video Presentation
-- Create a video presentation (in ENGLISH) of maximum 5' to show the layout of your application
+[ ] Create a video presentation (in ENGLISH) of maximum 5' to show the layout of your application
 
 ### (7) Deployment (Optional)
 - Deploy the website using **Netlify/Heroku** or similar tools and share the link in the 
@@ -64,7 +64,9 @@ The interface will follow the `Usability`, `UX` and `Acccessibility` criteria se
 > :alarm_clock: Deadline: Wednesday 24/02/2021
 > Val el 15% de la nota
 
-- [ ] Punts 1, 2 i 3 dels requerimets
+- [ ] Punts 1, 2 i 3 dels requirements
 
 ### SPRINT 2: Final prototype
 > :alarm_clock: Deadline: Thursday 18/03/2021
+
+- [ ] Entrega final

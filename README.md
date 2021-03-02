@@ -67,6 +67,6 @@ The interface will follow the `Usability`, `UX` and `Acccessibility` criteria se
 - [ ] Punts 1, 2 i 3 dels requirements
 
 ### SPRINT 2: Final prototype
-> :alarm_clock: Deadline: Thursday 25/03/2021
+> :alarm_clock: Deadline: Thursday 1/04/2021
 
 - [ ] Entrega final. Val el 85% de la nota de la pràctica

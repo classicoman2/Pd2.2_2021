@@ -61,7 +61,7 @@ The interface will follow the `Usability`, `UX` and `Acccessibility` criteria se
 
 ## SPRINTS :rocket:
 ### SPRINT 1
-> :alarm_clock: Deadline: Wednesday 3/02/2021
+> :alarm_clock: Deadline: Thursday 4/03/2021
 > Val el 15% de la nota de la pràctica
 
 - [ ] Punts 1, 2 i 3 dels requirements

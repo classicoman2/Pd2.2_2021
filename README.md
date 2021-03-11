@@ -50,8 +50,8 @@ The interface will follow the `Usability`, `UX` and `Acccessibility` criteria se
 - [ ] Follow as much as possible the `Design` and `Usability/UX` criteria seen in class when creating the layout of your application
 
 ### (5) Accessibility
-- [ ] Create at least one form following the `Validation and Usability` criteria and also fulfill the `Accessibility principles` seen in class
-- [ ] Create at least a menu that follows the `Accessibility principles` seen in class
+- [ ] Follow the `Page Structure` accessibility criteria that we've seen in class
+- [ ] Create at least one `form` following the Accessibility principles for forms that we've seen in class
 
 ### (6) Video Presentation
 - [ ] Create a video presentation (in ENGLISH) of maximum 5' to show the layout of your application
